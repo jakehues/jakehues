@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Jake. 👋
 
-<!--
-**jakehues/jakehues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate individual with expertise in a variety of domains, including Full Stack Web Development, 3D Art, and Design.
 
-Here are some ideas to get you started:
+#### 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** HTML, CSS, JS, React
+- **Programming Languages:** Go, Rust, Java, C, C++, Python
+
+#### 🖥️ Creative Skills:
+
+- **3D Art**
+- **Design**
+
+🤙🏼 Feel free to contact me on discord: **mightbejake**
